@@ -1,11 +1,9 @@
-title: default-project-template
+title: Add interaction styling with CSS
 hero_image: images/banner.png
-description: default-project-template description
+description: Add styling that only applies when a user interacts with an element
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Add interaction styling with CSS

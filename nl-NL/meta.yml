@@ -1,0 +1,9 @@
+title: Add interaction styling with CSS
+hero_image: images/banner.png
+description: Add styling that only applies when a user interacts with an element
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Add interaction styling with CSS

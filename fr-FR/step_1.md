@@ -1,8 +1,8 @@
-When writing CSS, you might want to change the styling of an element when the user interacts with it.
+Lorsque tu écris du CSS, tu souhaiterais peut-être modifier le style d'un élément lorsque l'utilisateur interagit avec lui.
 
-In the example below, the styling of the `a` elements is changed, but only when a user **hovers** over them with their mouse. The syntax for this is `a:hover`.
+Dans l'exemple ci-dessous, le style des éléments `a` est modifié, mais uniquement lorsqu'un utilisateur les **survole** avec sa souris. La syntaxe est `a:hover`.
 
-The style in this selector will **only** be used when a user's mouse is on top of the element.
+Le style de ce sélecteur sera **uniquement** utilisé lorsque la souris de l'utilisateur se trouve au-dessus de l'élément.
 
 ## --- code ---
 

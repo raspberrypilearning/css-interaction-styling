@@ -1,0 +1,10 @@
+---
+title: Interactieve opmaak toevoegen met CSS
+hero_image: images/banner.png
+description: Voeg opmaak toe die alleen van toepassing is als een gebruiker interactie heeft met een element
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Interactieve opmaak toevoegen met CSS

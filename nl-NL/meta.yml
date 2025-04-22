@@ -1,9 +1,9 @@
-title: Add interaction styling with CSS
+title: Interactieve opmaak toevoegen met CSS
 hero_image: images/banner.png
-description: Add styling that only applies when a user interacts with an element
+description: Voeg opmaak toe die alleen van toepassing is als een gebruiker interactie heeft met een element
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Add interaction styling with CSS
+  - title: Interactieve opmaak toevoegen met CSS

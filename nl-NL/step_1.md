@@ -1,8 +1,8 @@
-When writing CSS, you might want to change the styling of an element when the user interacts with it.
+Wanneer je CSS schrijft, wil je misschien de opmaak van een element wijzigen wanneer de gebruiker ermee communiceert.
 
-In the example below, the styling of the `a` elements is changed, but only when a user **hovers** over them with their mouse. The syntax for this is `a:hover`.
+In het onderstaande voorbeeld wordt de opmaak van de `a`-elementen gewijzigd, maar alleen wanneer een gebruiker er met de muis overheen **beweegt**. De syntaxis hiervoor is `a:hover`.
 
-The style in this selector will **only** be used when a user's mouse is on top of the element.
+De opmaak in deze selector wordt **alleen** gebruikt wanneer de muis van de gebruiker zich boven het element bevindt.
 
 ## --- code ---
 

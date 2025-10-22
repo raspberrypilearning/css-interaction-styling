@@ -1,0 +1,10 @@
+---
+title: 使用 CSS 添加交互样式
+hero_image: images/banner.png
+description: 添加仅在用户与元素交互时应用的样式
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: 使用 CSS 添加交互样式
